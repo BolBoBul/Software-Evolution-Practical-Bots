@@ -1,0 +1,6 @@
+# Ignore all folders inside data
+data/*
+
+# Except folder 09
+!data/09/
+!data/09/**
